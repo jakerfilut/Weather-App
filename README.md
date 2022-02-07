@@ -1,8 +1,7 @@
-# USER STORY:
+# Weather App:
 
-As a user, I want to search for the weather forecast of a specific city. When I type a name in the search bar - suggested names should auto-populate. When I enter a city name, the map should zoom to that area and a forecast appears. I can favorite a city so that it'll be posted to a drop down menu of "My Cities", for my direct viewing later.
+This web based weather app allows you to search anywhere in the world to look at the weather. You can either use the search bar or click on the map. If you like a place you can add it to yout favorites so you always click on it later.
 
+# Languages:
 
-
-
-
+React
